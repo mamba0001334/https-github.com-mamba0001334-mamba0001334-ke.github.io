@@ -10,5 +10,19 @@
         <meta name ="desciption" content="differnt type of photos of elephants">
     </head>
 </html>
-<body><img src=""/></body>
+<body>
+    <img>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg"
+        alt="elephant in the mud"/>
+    <img>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/African_elephant_%2821061038745%29.jpg"
+        alt="elephant in the wild" />
+</body>
+<h3>Public Domain</h3>
+    <p>
+        <img>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Elephants_in_Tanzania_Africa.jpg"
+           alt="elephant in tanzania"/>
+    </p>
+     
 
