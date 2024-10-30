@@ -10,5 +10,5 @@
         <meta name ="desciption" content="differnt type of photos of elephants">
     </head>
 </html>
-<body><img src="![Elephant](https://github.com/user-attachments/assets/5d2f557a-b87a-450f-84aa-1b76c90b0dc8)"/></body>
+<body><img src=""/></body>
 
